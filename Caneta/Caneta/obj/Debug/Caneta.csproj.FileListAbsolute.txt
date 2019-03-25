@@ -1,0 +1,9 @@
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\bin\Debug\Caneta.exe.config
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\bin\Debug\Caneta.exe
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\bin\Debug\Caneta.pdb
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\obj\Debug\Caneta.csprojResolveAssemblyReference.cache
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\obj\Debug\Caneta.Form1.resources
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\obj\Debug\Caneta.Properties.Resources.resources
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\obj\Debug\Caneta.csproj.GenerateResource.Cache
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\obj\Debug\Caneta.exe
+c:\users\1111008197\documents\visual studio 2015\Projects\Caneta\Caneta\obj\Debug\Caneta.pdb
